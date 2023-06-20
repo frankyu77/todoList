@@ -1,0 +1,1 @@
+This is a very simple to do list that can be ran in the terminal. You are able to add items to your list and can have the option to remove the last element added to the list.
